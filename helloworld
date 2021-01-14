@@ -1,0 +1,12 @@
+#include<iostream> //标准输入输出流
+int main() {
+//std::cout << "Hello, World" << std::endl;
+	//return 0;
+	std::cout << "请输入两个数" << std:: endl; 
+	int vl, v2;
+std :: cin >> vl >> v2;
+	std::cout << vl << "和" << v2 << "的和为"
+		<< vl + v2 << std:: endl;
+	return 0;
+
+}
