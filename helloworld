@@ -1,3 +1,4 @@
+```
 #include<iostream> //标准输入输出流
 int main() {
 //std::cout << "Hello, World" << std::endl;
@@ -10,3 +11,5 @@ std :: cin >> vl >> v2;
 	return 0;
 
 }
+```
+
